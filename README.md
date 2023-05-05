@@ -1,4 +1,4 @@
-# curved_navi
+# curved Navigation Bar its look like preety cool
 
 A new Flutter project.
 
